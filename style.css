@@ -4,17 +4,17 @@
     box-sizing: border-box;
 }
 header{
-    font-family: initial;
-    background-color: rgb(251, 76, 76);
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(236, 59, 59);
     text-align: center;
     padding: 5px;
-    color: black;
-    border: solid 1px;
+    color: rgb(0, 0, 0);
+    border: solid 1px  rgb(0, 0, 0);
 
 
 }
 header ul{
-    padding: 10px;
+    padding: 20px;
     list-style-type: none;
 }
 
